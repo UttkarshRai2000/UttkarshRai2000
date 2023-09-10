@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @UttkarshRai
-- 👀 I’m interested in marketing and programming
-- 🌱 I’m currently learning Java Programming and social media marketing.
-- 💞️ I’m looking to collaborate on social media marketing
-- 📫 How to reach me raiuttkarshoffical@gmail.com
+- 👋 Hi, I’m UttkarshRai
+- 👀 I’m interested in programming
+- 🌱 I’m a good Programming skills.
+- 📫 How to reach me uttkarshrai2000@gmail.com
 
 <!---
 UttkarshRai2000/UttkarshRai2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
