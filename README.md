@@ -1,6 +1,6 @@
-- 👋 Hi, I’m UttkarshRai
-- 👀 I’m interested in programming
-- 🌱 I’m a good Programming skills.
+- 👋 Hi, I’m Uttkarsh Rai
+- 👀 I’m very passionate for programming
+- 🌱 I have a good programming skills.
 - 📫 How to reach me uttkarshrai2000@gmail.com
 
 <!---
